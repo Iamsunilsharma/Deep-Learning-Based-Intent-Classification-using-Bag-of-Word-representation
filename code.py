@@ -1,5 +1,6 @@
 from numpy import array
 from pandas as pd
+import matplotlib as plt
 from string import punctuation
 from os import listdir
 from collections import Counter
