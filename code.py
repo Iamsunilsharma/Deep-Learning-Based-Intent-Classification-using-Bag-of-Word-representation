@@ -1,4 +1,5 @@
 from numpy import array
+from pandas as pd
 from string import punctuation
 from os import listdir
 from collections import Counter
